@@ -11,6 +11,7 @@ git init + первый коммит, `gh repo create` + push, создаёт м
 """
 import argparse
 import datetime as dt
+import json
 import os
 import random
 import re
@@ -121,7 +122,8 @@ def main():
     entry = (
         "\n  - id: %s\n    name: %s\n    repo: %s\n    local: %s\n    engine: %s\n"
         "    phase: idea\n    tracker: github-issues\n    color: \"%s\"\n    tagline: %s\n"
-        % (slug, args.name, repo, os.path.join(args.dir, repo_name), args.engine, color, args.tagline))
+        % (slug, args.name, repo, os.path.join(args.dir, repo_name), args.engine, color,
+           json.dumps(args.tagline, ensure_ascii=False)))
     with open(REGISTRY, "a", encoding="utf-8") as f:
         f.write(entry)
     print("projects.yaml: добавлен", slug)

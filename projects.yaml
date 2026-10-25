@@ -82,3 +82,87 @@ projects:
     color: "#ffca3a"
     tagline: 2D-игра на SpriteKit, первая игра в App Store
     store: https://apps.apple.com/ru/app/cube-squared/id6446372432?l=en
+
+  - id: chess-roguelike
+    name: Chess-Roguelike
+    repo: artemiiShabanov/Chess-Roguelike
+    local: ~/Documents/GitHub/Chess-Roguelike
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#7b2cbf"
+    tagline: 'Шахматный рогалик: как Balatro, только шахматы. Убить все фигуры, а не короля, начиная
+  с неполной доски'
+
+  - id: tile-walker
+    name: Tile-Walker
+    repo: artemiiShabanov/Tile-Walker
+    local: ~/Documents/GitHub/Tile-Walker
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#06d6a0"
+    tagline: 'Гиперказуалка для смартфонов про шагание по плитке: реалистичная физика скелета на
+  джоинтах, управление в один тап'
+
+  - id: balloon
+    name: Balloon
+    repo: artemiiShabanov/Balloon
+    local: ~/Documents/GitHub/Balloon
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#ef476f"
+    tagline: '2D-сатира: не дать шарику упасть на землю. У шарика лицо с эмоциями по высоте, шариков
+  всего три'
+
+  - id: robbers
+    name: Robbers
+    repo: artemiiShabanov/Robbers
+    local: ~/Documents/GitHub/Robbers
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#a0522d"
+    tagline: 'Ограбления как в Payday, но с полной свободой разрушения: копать землю, проламывать
+  стены, разные инструменты'
+
+  - id: interactive-museum
+    name: Interactive-Museum
+    repo: artemiiShabanov/Interactive-Museum
+    local: ~/Documents/GitHub/Interactive-Museum
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#118ab2"
+    tagline: Интерактивный музей как teamLab, но видеоигра, поэтому интерактива сильно больше
+
+  - id: b-w
+    name: B&W
+    repo: artemiiShabanov/B-W
+    local: ~/Documents/GitHub/B-W
+    engine: Godot 4.4
+    phase: prototype
+    tracker: github-issues
+    color: "#495057"
+    tagline: Ремейк Cube-Squared для ПК в стилистике зернистого чёрно-белого кино
+
+  - id: lasthitcommander
+    name: Last H!t
+    repo: artemiiShabanov/LastHitCommander
+    local: ~/Documents/GitHub/LastHitCommander
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#b5179e"
+    tagline: "Добивать крипов, будучи полководцем на поле боя: за ласт-хиты прокачиваешь армию или себя, выиграть одно сражение а-ля 2048"
+
+  - id: the-games
+    name: The Games
+    repo: artemiiShabanov/The-games
+    local: ~/Documents/GitHub/The-games
+    engine: Godot 4.4
+    phase: idea
+    tracker: github-issues
+    color: "#ffd166"
+    tagline: "The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском"
