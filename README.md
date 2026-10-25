@@ -11,6 +11,10 @@
 | **[RallyRivals](https://github.com/artemiiShabanov/RallyRivals)**<br><sub>Аркадные ралли-гонки против ИИ-соперников, 3D</sub> | контент | Godot 4.4 | `█████████░` 89% (132/149) | 17 | 2026-10-25<br><sub>Workflow: drop tasks.yaml, tasks.py and STATUS.md — the back</sub> | 2 | 278 |
 | **[No-Extraction](https://github.com/artemiiShabanov/No-Extraction)**<br><sub>Снайпер на крепостной стене против волн рыцарей</sub> | вертикальный срез | Godot 4.7 | `██░░░░░░░░` 25% (13/53) | 40 | 2026-10-25<br><sub>project.yaml: next reflects the open M1 issue (#10)</sub> | 2 | 40 |
 | **[slash-dash-slash](https://github.com/artemiiShabanov/slash-dash-slash)**<br><sub>Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией</sub> | прототип | Godot 4.4 (mobile) | `█░░░░░░░░░` 14% (10/70) | 60 | 2026-10-25<br><sub>Align with gamedev-hub workflow: docs/, plan.yaml, sync_plan</sub> | 1 | 29 |
+| **[FingerRally](https://github.com/artemiiShabanov/FingerRally)**<br><sub>Бесплатные бесконечные гонки на Godot</sub> | выпущена | Godot 4.4 | — | — | 2025-10-06<br><sub>fixes</sub> | 0 | 18 |
+| **[Just-Cards-Actually](https://github.com/artemiiShabanov/Just-Cards-Actually)**<br><sub>Бесплатная игра про коллекционирование карт на Godot</sub> | выпущена | Godot 4.4 | — | — | 2025-09-05<br><sub>fix timer</sub> | 0 | 26 |
+| **[Office-Worker-Simulator](https://github.com/artemiiShabanov/Office-Worker-Simulator)** · [App Store](https://apps.apple.com/ru/app/office-worker-simulator/id6448135661?l=en)<br><sub>2D-игра на SpriteKit, учебный проект</sub> | выпущена | SpriteKit (Swift) | — | — | 2023-04-30<br><sub>Update index.md</sub> | 0 | 7 |
+| **[Cube-Squared](https://github.com/artemiiShabanov/Cube-Squared)** · [App Store](https://apps.apple.com/ru/app/cube-squared/id6446372432?l=en)<br><sub>2D-игра на SpriteKit, первая игра в App Store</sub> | выпущена | SpriteKit (Swift) | — | — | 2023-04-02<br><sub>Update README.md</sub> | 0 | 5 |
 
 ## Активность
 
@@ -60,4 +64,4 @@
 - Новый проект: `python3 tools/new_project.py MyGame --tagline "..."`.
 - Автосборка: раз в сутки и при каждом пуше, см. `.github/workflows/dashboard.yml`.
 
-<sub>Обновлено 2026-10-25T16:23+03:00 (Europe/Moscow)</sub>
+<sub>Обновлено 2026-10-25T16:27+03:00 (Europe/Moscow)</sub>

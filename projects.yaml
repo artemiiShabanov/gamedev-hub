@@ -4,10 +4,11 @@
 # phase:  idea | prototype | vertical-slice | content | polish | released | paused | archived
 # color:  цвет проекта в календаре активности (hex)
 # tracker: github-issues | tasks-yaml | none  (как считать прогресс)
+# store:  ссылка на App Store / itch и т.п. для выпущенных игр
 
 owner: artemiiShabanov
 timezone: Europe/Moscow
-since: 2026-01-01          # с какой даты рисовать календарь
+since: 2023-01-01          # с какой даты рисовать календарь
 
 projects:
   - id: rally-rivals
@@ -39,3 +40,45 @@ projects:
     tracker: github-issues
     color: "#2ec4b6"
     tagline: Мобильный слэшер с дэшем и самоцветами в офисном сеттинге
+
+  # ---- выпущенные (App Store), без трекера: только календарь и таблица ----
+  - id: finger-rally
+    name: FingerRally
+    repo: artemiiShabanov/FingerRally
+    local: ~/Documents/GitHub/FingerRally
+    engine: Godot 4.4
+    phase: released
+    tracker: none
+    color: "#f4a261"
+    tagline: Бесплатные бесконечные гонки на Godot
+    store: ""            # TODO: ссылка на App Store
+
+  - id: just-cards-actually
+    name: Just-Cards-Actually
+    repo: artemiiShabanov/Just-Cards-Actually
+    engine: Godot 4.4
+    phase: released
+    tracker: none
+    color: "#9b5de5"
+    tagline: Бесплатная игра про коллекционирование карт на Godot
+    store: ""            # TODO: ссылка на App Store
+
+  - id: office-worker-simulator
+    name: Office-Worker-Simulator
+    repo: artemiiShabanov/Office-Worker-Simulator
+    engine: SpriteKit (Swift)
+    phase: released
+    tracker: none
+    color: "#8ac926"
+    tagline: 2D-игра на SpriteKit, учебный проект
+    store: https://apps.apple.com/ru/app/office-worker-simulator/id6448135661?l=en
+
+  - id: cube-squared
+    name: Cube-Squared
+    repo: artemiiShabanov/Cube-Squared
+    engine: SpriteKit (Swift)
+    phase: released
+    tracker: none
+    color: "#ffca3a"
+    tagline: 2D-игра на SpriteKit, первая игра в App Store
+    store: https://apps.apple.com/ru/app/cube-squared/id6446372432?l=en

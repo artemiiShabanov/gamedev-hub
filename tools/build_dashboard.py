@@ -143,6 +143,7 @@ def collect(reg):
             "phase": meta.get("phase", p.get("phase", "idea")),
             "tagline": meta.get("tagline", p.get("tagline", info.get("description") or "")),
             "next": meta.get("next", ""),
+            "store": meta.get("store", p.get("store") or ""),
             "tracker": tracker,
             "color": p.get("color", "#888888"),
             "commits_total": len(commits),
@@ -263,8 +264,9 @@ def render_readme(data):
         pr = p["progress"]
         prog = bar(pr["done"], pr["total"]) + (" (%d/%d)" % (pr["done"], pr["total"]) if pr["total"] else "")
         last = ("%s" % p["last_commit"]) if p["last_commit"] else "—"
-        lines.append("| **[%s](%s)**<br><sub>%s</sub> | %s | %s | %s | %s | %s<br><sub>%s</sub> | %d | %d |" % (
-            p["name"], p["url"], p["tagline"], PHASE_LABEL.get(p["phase"], p["phase"]), p["engine"],
+        store = " · [App Store](%s)" % p["store"] if p.get("store") else ""
+        lines.append("| **[%s](%s)**%s<br><sub>%s</sub> | %s | %s | %s | %s | %s<br><sub>%s</sub> | %d | %d |" % (
+            p["name"], p["url"], store, p["tagline"], PHASE_LABEL.get(p["phase"], p["phase"]), p["engine"],
             prog, pr["open"] if pr["total"] else "—", last, p["last_message"][:60].replace("|", "/"),
             p["commits_30d"], p["commits_total"]))
     lines.append("")

@@ -1,7 +1,7 @@
 {
- "generated_at": "2026-10-25T16:23+03:00",
+ "generated_at": "2026-10-25T16:27+03:00",
  "timezone": "Europe/Moscow",
- "since": "2026-01-01",
+ "since": "2023-01-01",
  "owner": "artemiiShabanov",
  "projects": [
   {
@@ -13,6 +13,7 @@
    "phase": "content",
    "tagline": "Аркадные ралли-гонки против ИИ-соперников, 3D",
    "next": "M1: тюнинг чувства езды и честная гонка против ИИ, затем первая настоящая трасса",
+   "store": "",
    "tracker": "github-issues",
    "color": "#e4572e",
    "commits_total": 278,
@@ -68,6 +69,7 @@
    "phase": "vertical-slice",
    "tagline": "Снайпер на крепостной стене против волн рыцарей",
    "next": "M1: закрыть плейтест 1 (#10) и ответить, весело ли ядро; дальше M2 контент",
+   "store": "",
    "tracker": "github-issues",
    "color": "#3d8bfd",
    "commits_total": 40,
@@ -135,6 +137,7 @@
    "phase": "prototype",
    "tagline": "Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией",
    "next": "M1 Вертикальный срез: этаж B от старта до босса — сначала комбо гемов и арена с эскалацией (ROADMAP M7, M9)",
+   "store": "",
    "tracker": "github-issues",
    "color": "#2ec4b6",
    "commits_total": 29,
@@ -198,9 +201,217 @@
      }
     ]
    }
+  },
+  {
+   "id": "finger-rally",
+   "name": "FingerRally",
+   "repo": "artemiiShabanov/FingerRally",
+   "url": "https://github.com/artemiiShabanov/FingerRally",
+   "engine": "Godot 4.4",
+   "phase": "released",
+   "tagline": "Бесплатные бесконечные гонки на Godot",
+   "next": "",
+   "store": "",
+   "tracker": "none",
+   "color": "#f4a261",
+   "commits_total": 18,
+   "active_days": 14,
+   "commits_30d": 0,
+   "last_commit": "2025-10-06",
+   "last_message": "fixes",
+   "pushed_at": "2025-10-06T17:39:37Z",
+   "progress": {
+    "done": 0,
+    "total": 0,
+    "open": 0,
+    "milestones": []
+   }
+  },
+  {
+   "id": "just-cards-actually",
+   "name": "Just-Cards-Actually",
+   "repo": "artemiiShabanov/Just-Cards-Actually",
+   "url": "https://github.com/artemiiShabanov/Just-Cards-Actually",
+   "engine": "Godot 4.4",
+   "phase": "released",
+   "tagline": "Бесплатная игра про коллекционирование карт на Godot",
+   "next": "",
+   "store": "",
+   "tracker": "none",
+   "color": "#9b5de5",
+   "commits_total": 26,
+   "active_days": 17,
+   "commits_30d": 0,
+   "last_commit": "2025-09-05",
+   "last_message": "fix timer",
+   "pushed_at": "2025-09-04T21:04:45Z",
+   "progress": {
+    "done": 0,
+    "total": 0,
+    "open": 0,
+    "milestones": []
+   }
+  },
+  {
+   "id": "office-worker-simulator",
+   "name": "Office-Worker-Simulator",
+   "repo": "artemiiShabanov/Office-Worker-Simulator",
+   "url": "https://github.com/artemiiShabanov/Office-Worker-Simulator",
+   "engine": "SpriteKit (Swift)",
+   "phase": "released",
+   "tagline": "2D-игра на SpriteKit, учебный проект",
+   "next": "",
+   "store": "https://apps.apple.com/ru/app/office-worker-simulator/id6448135661?l=en",
+   "tracker": "none",
+   "color": "#8ac926",
+   "commits_total": 7,
+   "active_days": 5,
+   "commits_30d": 0,
+   "last_commit": "2023-04-30",
+   "last_message": "Update index.md",
+   "pushed_at": "2023-04-30T13:22:08Z",
+   "progress": {
+    "done": 0,
+    "total": 0,
+    "open": 0,
+    "milestones": []
+   }
+  },
+  {
+   "id": "cube-squared",
+   "name": "Cube-Squared",
+   "repo": "artemiiShabanov/Cube-Squared",
+   "url": "https://github.com/artemiiShabanov/Cube-Squared",
+   "engine": "SpriteKit (Swift)",
+   "phase": "released",
+   "tagline": "2D-игра на SpriteKit, первая игра в App Store",
+   "next": "",
+   "store": "https://apps.apple.com/ru/app/cube-squared/id6446372432?l=en",
+   "tracker": "none",
+   "color": "#ffca3a",
+   "commits_total": 5,
+   "active_days": 2,
+   "commits_30d": 0,
+   "last_commit": "2023-04-02",
+   "last_message": "Update README.md",
+   "pushed_at": "2023-04-02T15:37:43Z",
+   "progress": {
+    "done": 0,
+    "total": 0,
+    "open": 0,
+    "milestones": []
+   }
   }
  ],
  "activity": {
+  "2023-03-31": {
+   "cube-squared": 2
+  },
+  "2023-04-02": {
+   "cube-squared": 3
+  },
+  "2023-04-04": {
+   "office-worker-simulator": 1
+  },
+  "2023-04-06": {
+   "office-worker-simulator": 1
+  },
+  "2023-04-11": {
+   "office-worker-simulator": 1
+  },
+  "2023-04-27": {
+   "office-worker-simulator": 2
+  },
+  "2023-04-30": {
+   "office-worker-simulator": 2
+  },
+  "2025-04-25": {
+   "finger-rally": 1,
+   "just-cards-actually": 1
+  },
+  "2025-04-28": {
+   "finger-rally": 1,
+   "just-cards-actually": 1
+  },
+  "2025-08-06": {
+   "just-cards-actually": 1
+  },
+  "2025-08-07": {
+   "just-cards-actually": 1
+  },
+  "2025-08-08": {
+   "just-cards-actually": 1
+  },
+  "2025-08-09": {
+   "just-cards-actually": 1
+  },
+  "2025-08-10": {
+   "just-cards-actually": 1
+  },
+  "2025-08-11": {
+   "just-cards-actually": 2
+  },
+  "2025-08-12": {
+   "just-cards-actually": 4
+  },
+  "2025-08-13": {
+   "just-cards-actually": 2
+  },
+  "2025-08-15": {
+   "just-cards-actually": 1
+  },
+  "2025-08-16": {
+   "just-cards-actually": 2
+  },
+  "2025-08-18": {
+   "just-cards-actually": 1
+  },
+  "2025-08-27": {
+   "just-cards-actually": 2
+  },
+  "2025-08-28": {
+   "just-cards-actually": 1
+  },
+  "2025-09-01": {
+   "finger-rally": 1
+  },
+  "2025-09-02": {
+   "finger-rally": 1,
+   "just-cards-actually": 3
+  },
+  "2025-09-03": {
+   "finger-rally": 1
+  },
+  "2025-09-04": {
+   "finger-rally": 2
+  },
+  "2025-09-05": {
+   "just-cards-actually": 1
+  },
+  "2025-09-08": {
+   "finger-rally": 1
+  },
+  "2025-09-13": {
+   "finger-rally": 1
+  },
+  "2025-09-15": {
+   "finger-rally": 2
+  },
+  "2025-09-17": {
+   "finger-rally": 1
+  },
+  "2025-09-18": {
+   "finger-rally": 2
+  },
+  "2025-09-22": {
+   "finger-rally": 2
+  },
+  "2025-09-23": {
+   "finger-rally": 1
+  },
+  "2025-10-06": {
+   "finger-rally": 1
+  },
   "2026-05-01": {
    "slash-dash-slash": 1
   },

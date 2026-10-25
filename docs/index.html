@@ -123,7 +123,7 @@ function renderCards() {
     }).join("");
     return `<article class="card" style="--c:${p.color}">
       <h2><a href="${p.url}" target="_blank" rel="noopener">${esc(p.name)}</a><span class="badge">${PHASE[p.phase] || esc(p.phase)}</span></h2>
-      <p class="tag">${esc(p.tagline)}</p>
+      <p class="tag">${esc(p.tagline)}${p.store ? ` · <a href="${esc(p.store)}" target="_blank" rel="noopener">App Store ↗</a>` : ""}</p>
       <div class="row"><span>Движок</span><span>${esc(p.engine)}</span></div>
       <div class="row"><span>Последний коммит</span><span>${fmt(p.last_commit)}</span></div>
       <div class="msg" title="${esc(p.last_message)}">${esc(p.last_message)}</div>
