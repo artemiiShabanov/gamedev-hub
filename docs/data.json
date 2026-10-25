@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:21+03:00",
+ "generated_at": "2026-10-25T16:23+03:00",
  "timezone": "Europe/Moscow",
  "since": "2026-01-01",
  "owner": "artemiiShabanov",
@@ -12,15 +12,15 @@
    "engine": "Godot 4.4",
    "phase": "content",
    "tagline": "Аркадные ралли-гонки против ИИ-соперников, 3D",
-   "next": "",
+   "next": "M1: тюнинг чувства езды и честная гонка против ИИ, затем первая настоящая трасса",
    "tracker": "github-issues",
    "color": "#e4572e",
-   "commits_total": 275,
-   "active_days": 37,
-   "commits_30d": 0,
-   "last_commit": "2026-08-10",
-   "last_message": "Tasks: close art-vfx-damage — 131/148",
-   "pushed_at": "2026-08-10T12:53:28Z",
+   "commits_total": 278,
+   "active_days": 39,
+   "commits_30d": 2,
+   "last_commit": "2026-10-25",
+   "last_message": "Workflow: drop tasks.yaml, tasks.py and STATUS.md — the backlog now lives in GitHub Issues",
+   "pushed_at": "2026-10-25T13:23:12Z",
    "progress": {
     "done": 132,
     "total": 149,
@@ -342,6 +342,9 @@
   "2026-08-10": {
    "rally-rivals": 2
   },
+  "2026-09-01": {
+   "rally-rivals": 1
+  },
   "2026-09-06": {
    "no-extraction": 1
   },
@@ -361,6 +364,7 @@
    "no-extraction": 8
   },
   "2026-10-25": {
+   "rally-rivals": 2,
    "no-extraction": 2,
    "slash-dash-slash": 1
   }

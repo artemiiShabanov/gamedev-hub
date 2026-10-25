@@ -423,7 +423,9 @@
 <rect x="692" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="692" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="707" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="707" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-09-01: RallyRivals 1</title>
+<rect x="707" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+</g>
 <rect x="707" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="707" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="707" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -491,12 +493,13 @@
 <rect x="812" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="812" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="812" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-10-25: No-Extraction 2, slash-dash-slash 1</title>
-<rect x="812" y="110" width="12" height="8" fill="#3d8bfd" fill-opacity="0.54"/>
-<rect x="812" y="118" width="12" height="4" fill="#2ec4b6" fill-opacity="0.54"/>
+<g><title>2026-10-25: RallyRivals 2, No-Extraction 2, slash-dash-slash 1</title>
+<rect x="812" y="110" width="12" height="5" fill="#e4572e" fill-opacity="0.60"/>
+<rect x="812" y="115" width="12" height="5" fill="#3d8bfd" fill-opacity="0.60"/>
+<rect x="812" y="120" width="12" height="2" fill="#2ec4b6" fill-opacity="0.60"/>
 </g>
 <rect x="32" y="139" width="12" height="12" rx="2" fill="#e4572e"/>
-<text x="49" y="149">RallyRivals · 37 дн.</text>
+<text x="49" y="149">RallyRivals · 39 дн.</text>
 <rect x="179" y="139" width="12" height="12" rx="2" fill="#3d8bfd"/>
 <text x="196" y="149">No-Extraction · 7 дн.</text>
 <rect x="331" y="139" width="12" height="12" rx="2" fill="#2ec4b6"/>
