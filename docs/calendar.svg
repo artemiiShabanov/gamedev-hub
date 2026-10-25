@@ -493,10 +493,18 @@
 <rect x="812" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="812" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="812" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-10-25: RallyRivals 2, No-Extraction 2, slash-dash-slash 1</title>
-<rect x="812" y="110" width="12" height="5" fill="#e4572e" fill-opacity="0.60"/>
-<rect x="812" y="115" width="12" height="5" fill="#3d8bfd" fill-opacity="0.60"/>
-<rect x="812" y="120" width="12" height="2" fill="#2ec4b6" fill-opacity="0.60"/>
+<g><title>2026-10-25: Chess-Roguelike 3, Tile-Walker 3, Balloon 3, Robbers 3, Interactive-Museum 3, B&W 3, Last H!t 3, The Games 3, RallyRivals 2, No-Extraction 2, slash-dash-slash 1</title>
+<rect x="812" y="110" width="12" height="1" fill="#7b2cbf" fill-opacity="1.00"/>
+<rect x="812" y="111" width="12" height="1" fill="#06d6a0" fill-opacity="1.00"/>
+<rect x="812" y="112" width="12" height="1" fill="#ef476f" fill-opacity="1.00"/>
+<rect x="812" y="113" width="12" height="1" fill="#a0522d" fill-opacity="1.00"/>
+<rect x="812" y="114" width="12" height="1" fill="#118ab2" fill-opacity="1.00"/>
+<rect x="812" y="115" width="12" height="1" fill="#495057" fill-opacity="1.00"/>
+<rect x="812" y="116" width="12" height="1" fill="#b5179e" fill-opacity="1.00"/>
+<rect x="812" y="117" width="12" height="1" fill="#ffd166" fill-opacity="1.00"/>
+<rect x="812" y="118" width="12" height="1" fill="#e4572e" fill-opacity="1.00"/>
+<rect x="812" y="119" width="12" height="1" fill="#3d8bfd" fill-opacity="1.00"/>
+<rect x="812" y="120" width="12" height="1" fill="#2ec4b6" fill-opacity="1.00"/>
 </g>
 <rect x="32" y="139" width="12" height="12" rx="2" fill="#e4572e"/>
 <text x="49" y="149">RallyRivals · 39 дн.</text>
@@ -512,4 +520,20 @@
 <text x="861" y="149">Office-Worker-Simulator · 5 дн.</text>
 <rect x="1052" y="139" width="12" height="12" rx="2" fill="#ffca3a"/>
 <text x="1069" y="149">Cube-Squared · 2 дн.</text>
+<rect x="1199" y="139" width="12" height="12" rx="2" fill="#7b2cbf"/>
+<text x="1216" y="149">Chess-Roguelike · 1 дн.</text>
+<rect x="1362" y="139" width="12" height="12" rx="2" fill="#06d6a0"/>
+<text x="1379" y="149">Tile-Walker · 1 дн.</text>
+<rect x="1503" y="139" width="12" height="12" rx="2" fill="#ef476f"/>
+<text x="1520" y="149">Balloon · 1 дн.</text>
+<rect x="1622" y="139" width="12" height="12" rx="2" fill="#a0522d"/>
+<text x="1639" y="149">Robbers · 1 дн.</text>
+<rect x="1741" y="139" width="12" height="12" rx="2" fill="#118ab2"/>
+<text x="1758" y="149">Interactive-Museum · 1 дн.</text>
+<rect x="1921" y="139" width="12" height="12" rx="2" fill="#495057"/>
+<text x="1938" y="149">B&W · 16 дн.</text>
+<rect x="2023" y="139" width="12" height="12" rx="2" fill="#b5179e"/>
+<text x="2040" y="149">Last H!t · 3 дн.</text>
+<rect x="2147" y="139" width="12" height="12" rx="2" fill="#ffd166"/>
+<text x="2164" y="149">The Games · 3 дн.</text>
 </svg>

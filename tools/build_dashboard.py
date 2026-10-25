@@ -101,7 +101,11 @@ def collect(reg):
         repo = p["repo"]
         info = api("/repos/" + repo)
         meta = api("/repos/%s/contents/project.yaml" % repo, raw=True, ok404=True)
-        meta = yaml.safe_load(meta) or {} if meta else {}
+        try:
+            meta = yaml.safe_load(meta) or {} if meta else {}
+        except yaml.YAMLError as e:
+            print("WARN %s: project.yaml не парсится, использую реестр (%s)" % (repo, str(e).splitlines()[0]))
+            meta = {}
         commits = paginate("/repos/%s/commits" % repo, {"since": since + "T00:00:00Z"})
         days = defaultdict(int)
         for c in commits:

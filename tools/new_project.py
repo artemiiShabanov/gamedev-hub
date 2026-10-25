@@ -80,7 +80,7 @@ def main():
             with open(src, encoding="utf-8") as f:
                 text = f.read()
             for k, v in subst.items():
-                text = text.replace(k, v)
+                text = text.replace(k, v.replace('"', '\\"') if fn.endswith((".yaml", ".yml")) else v)
             dst = os.path.join(out_dir, fn)
             with open(dst, "w", encoding="utf-8") as f:
                 f.write(text)

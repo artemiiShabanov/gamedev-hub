@@ -5,7 +5,7 @@
 # size: S = полдня, M = день, L = два дня, XL = три дня
 # Задачи атомарны. Issue закрываются на GitHub; done: true здесь только для уже закрытых при миграции.
 
-project: {{NAME}}
+project: "{{NAME}}"
 
 labels:
   types:

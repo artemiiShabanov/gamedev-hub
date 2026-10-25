@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T16:32+03:00",
+ "generated_at": "2026-10-25T17:02+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -301,6 +301,262 @@
     "open": 0,
     "milestones": []
    }
+  },
+  {
+   "id": "chess-roguelike",
+   "name": "Chess-Roguelike",
+   "repo": "artemiiShabanov/Chess-Roguelike",
+   "url": "https://github.com/artemiiShabanov/Chess-Roguelike",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "Шахматный рогалик: как Balatro, только шахматы. Убить все фигуры, а не короля, начиная с неполной доски",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#7b2cbf",
+   "commits_total": 3,
+   "active_days": 1,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:38Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "tile-walker",
+   "name": "Tile-Walker",
+   "repo": "artemiiShabanov/Tile-Walker",
+   "url": "https://github.com/artemiiShabanov/Tile-Walker",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "Гиперказуалка для смартфонов про шагание по плитке: реалистичная физика скелета на джоинтах, управление в один тап",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#06d6a0",
+   "commits_total": 3,
+   "active_days": 1,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:40Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "balloon",
+   "name": "Balloon",
+   "repo": "artemiiShabanov/Balloon",
+   "url": "https://github.com/artemiiShabanov/Balloon",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "2D-сатира: не дать шарику упасть на землю. У шарика лицо с эмоциями по высоте, шариков всего три",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#ef476f",
+   "commits_total": 3,
+   "active_days": 1,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:42Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "robbers",
+   "name": "Robbers",
+   "repo": "artemiiShabanov/Robbers",
+   "url": "https://github.com/artemiiShabanov/Robbers",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "Ограбления как в Payday, но с полной свободой разрушения: копать землю, проламывать стены, разные инструменты",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#a0522d",
+   "commits_total": 3,
+   "active_days": 1,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:44Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "interactive-museum",
+   "name": "Interactive-Museum",
+   "repo": "artemiiShabanov/Interactive-Museum",
+   "url": "https://github.com/artemiiShabanov/Interactive-Museum",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "Интерактивный музей как teamLab, но видеоигра, поэтому интерактива сильно больше",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#118ab2",
+   "commits_total": 3,
+   "active_days": 1,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:45Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "b-w",
+   "name": "B&W",
+   "repo": "artemiiShabanov/B-W",
+   "url": "https://github.com/artemiiShabanov/B-W",
+   "engine": "Godot 4.4",
+   "phase": "prototype",
+   "tagline": "Ремейк Cube-Squared для ПК в стилистике зернистого чёрно-белого кино",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#495057",
+   "commits_total": 19,
+   "active_days": 16,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:47Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "lasthitcommander",
+   "name": "Last H!t",
+   "repo": "artemiiShabanov/LastHitCommander",
+   "url": "https://github.com/artemiiShabanov/LastHitCommander",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "Добивать крипов, будучи полководцем на поле боя: за ласт-хиты прокачиваешь армию или себя, выиграть одно сражение а-ля 2048",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#b5179e",
+   "commits_total": 6,
+   "active_days": 3,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:49Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "the-games",
+   "name": "The Games",
+   "repo": "artemiiShabanov/The-games",
+   "url": "https://github.com/artemiiShabanov/The-games",
+   "engine": "Godot 4.4",
+   "phase": "idea",
+   "tagline": "The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском",
+   "next": "",
+   "store": "",
+   "tracker": "github-issues",
+   "color": "#ffd166",
+   "commits_total": 6,
+   "active_days": 3,
+   "commits_30d": 3,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями",
+   "pushed_at": "2026-10-25T14:01:51Z",
+   "progress": {
+    "done": 0,
+    "total": 1,
+    "open": 1,
+    "milestones": [
+     {
+      "title": "M0 Прототип",
+      "open": 1,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
   }
  ],
  "activity": {
@@ -327,11 +583,53 @@
   },
   "2025-04-25": {
    "finger-rally": 1,
-   "just-cards-actually": 1
+   "just-cards-actually": 1,
+   "b-w": 1,
+   "lasthitcommander": 1,
+   "the-games": 1
   },
   "2025-04-28": {
    "finger-rally": 1,
-   "just-cards-actually": 1
+   "just-cards-actually": 1,
+   "b-w": 1,
+   "lasthitcommander": 2,
+   "the-games": 2
+  },
+  "2025-05-17": {
+   "b-w": 1
+  },
+  "2025-05-24": {
+   "b-w": 2
+  },
+  "2025-05-26": {
+   "b-w": 1
+  },
+  "2025-05-27": {
+   "b-w": 1
+  },
+  "2025-06-16": {
+   "b-w": 1
+  },
+  "2025-06-17": {
+   "b-w": 1
+  },
+  "2025-06-18": {
+   "b-w": 1
+  },
+  "2025-06-28": {
+   "b-w": 1
+  },
+  "2025-07-01": {
+   "b-w": 1
+  },
+  "2025-07-02": {
+   "b-w": 1
+  },
+  "2025-07-03": {
+   "b-w": 1
+  },
+  "2025-07-09": {
+   "b-w": 1
   },
   "2025-08-06": {
    "just-cards-actually": 1
@@ -367,7 +665,8 @@
    "just-cards-actually": 1
   },
   "2025-08-27": {
-   "just-cards-actually": 2
+   "just-cards-actually": 2,
+   "b-w": 1
   },
   "2025-08-28": {
    "just-cards-actually": 1
@@ -577,7 +876,15 @@
   "2026-10-25": {
    "rally-rivals": 2,
    "no-extraction": 2,
-   "slash-dash-slash": 1
+   "slash-dash-slash": 1,
+   "chess-roguelike": 3,
+   "tile-walker": 3,
+   "balloon": 3,
+   "robbers": 3,
+   "interactive-museum": 3,
+   "b-w": 3,
+   "lasthitcommander": 3,
+   "the-games": 3
   }
  }
 }

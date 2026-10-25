@@ -11,6 +11,14 @@
 | **[RallyRivals](https://github.com/artemiiShabanov/RallyRivals)**<br><sub>Аркадные ралли-гонки против ИИ-соперников, 3D</sub> | контент | Godot 4.4 | `█████████░` 89% (132/149) | 17 | 2026-10-25<br><sub>Workflow: drop tasks.yaml, tasks.py and STATUS.md — the back</sub> | 2 | 278 |
 | **[No-Extraction](https://github.com/artemiiShabanov/No-Extraction)**<br><sub>Снайпер на крепостной стене против волн рыцарей</sub> | вертикальный срез | Godot 4.7 | `██░░░░░░░░` 25% (13/53) | 40 | 2026-10-25<br><sub>project.yaml: next reflects the open M1 issue (#10)</sub> | 2 | 40 |
 | **[slash-dash-slash](https://github.com/artemiiShabanov/slash-dash-slash)**<br><sub>Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией</sub> | прототип | Godot 4.4 (mobile) | `█░░░░░░░░░` 14% (10/70) | 60 | 2026-10-25<br><sub>Align with gamedev-hub workflow: docs/, plan.yaml, sync_plan</sub> | 1 | 29 |
+| **[Chess-Roguelike](https://github.com/artemiiShabanov/Chess-Roguelike)**<br><sub>Шахматный рогалик: как Balatro, только шахматы. Убить все фигуры, а не короля, начиная с неполной доски</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 3 |
+| **[Tile-Walker](https://github.com/artemiiShabanov/Tile-Walker)**<br><sub>Гиперказуалка для смартфонов про шагание по плитке: реалистичная физика скелета на джоинтах, управление в один тап</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 3 |
+| **[Balloon](https://github.com/artemiiShabanov/Balloon)**<br><sub>2D-сатира: не дать шарику упасть на землю. У шарика лицо с эмоциями по высоте, шариков всего три</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 3 |
+| **[Robbers](https://github.com/artemiiShabanov/Robbers)**<br><sub>Ограбления как в Payday, но с полной свободой разрушения: копать землю, проламывать стены, разные инструменты</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 3 |
+| **[Interactive-Museum](https://github.com/artemiiShabanov/Interactive-Museum)**<br><sub>Интерактивный музей как teamLab, но видеоигра, поэтому интерактива сильно больше</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 3 |
+| **[B&W](https://github.com/artemiiShabanov/B-W)**<br><sub>Ремейк Cube-Squared для ПК в стилистике зернистого чёрно-белого кино</sub> | прототип | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 19 |
+| **[Last H!t](https://github.com/artemiiShabanov/LastHitCommander)**<br><sub>Добивать крипов, будучи полководцем на поле боя: за ласт-хиты прокачиваешь армию или себя, выиграть одно сражение а-ля 2048</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 6 |
+| **[The Games](https://github.com/artemiiShabanov/The-games)**<br><sub>The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском</sub> | идея | Godot 4.4 | `░░░░░░░░░░` 0% (0/1) | 1 | 2026-10-25<br><sub>project.yaml, plan.yaml: кавычки вокруг строк с двоеточиями</sub> | 3 | 6 |
 | **[FingerRally](https://github.com/artemiiShabanov/FingerRally)** · [App Store](https://apps.apple.com/ru/app/finger-rally/id6752858585?l=en-GB)<br><sub>Бесплатные бесконечные гонки на Godot (в App Store: Finger Rally)</sub> | выпущена | Godot 4.4 | — | — | 2025-10-06<br><sub>fixes</sub> | 0 | 18 |
 | **[Just-Cards-Actually](https://github.com/artemiiShabanov/Just-Cards-Actually)** · [App Store](https://apps.apple.com/ru/app/card-collector-simulator/id6751577495?l=en-GB)<br><sub>Бесплатная игра про коллекционирование карт на Godot (в App Store: Card Collector Simulator)</sub> | выпущена | Godot 4.4 | — | — | 2025-09-05<br><sub>fix timer</sub> | 0 | 26 |
 | **[Office-Worker-Simulator](https://github.com/artemiiShabanov/Office-Worker-Simulator)** · [App Store](https://apps.apple.com/ru/app/office-worker-simulator/id6448135661?l=en)<br><sub>2D-игра на SpriteKit, учебный проект</sub> | выпущена | SpriteKit (Swift) | — | — | 2023-04-30<br><sub>Update index.md</sub> | 0 | 7 |
@@ -57,6 +65,38 @@
 - M6 Релиз `░░░░░░░░░░` 0% 0/8
 - M7 Если останется время `░░░░░░░░░░` 0% 0/4
 
+### Chess-Roguelike
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### Tile-Walker
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### Balloon
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### Robbers
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### Interactive-Museum
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### B&W
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### Last H!t
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
+### The Games
+
+- M0 Прототип `░░░░░░░░░░` 0% 0/1
+
 ## Как пользоваться
 
 - Добавить или изменить проект: правка `projects.yaml`, коммит. Фазу удобнее держать в `project.yaml` самого проекта, хаб её подхватит.
@@ -64,4 +104,4 @@
 - Новый проект: `python3 tools/new_project.py MyGame --tagline "..."`.
 - Автосборка: раз в сутки и при каждом пуше, см. `.github/workflows/dashboard.yml`.
 
-<sub>Обновлено 2026-10-25T16:32+03:00 (Europe/Moscow)</sub>
+<sub>Обновлено 2026-10-25T17:02+03:00 (Europe/Moscow)</sub>

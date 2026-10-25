@@ -92,7 +92,7 @@ def main():
             with open(src, encoding="utf-8") as f:
                 text = f.read()
             for k, v in subst.items():
-                text = text.replace(k, v)
+                text = text.replace(k, v.replace('"', '\\"') if fn.endswith((".yaml", ".yml")) else v)
             if fn == "README.md" and os.path.exists(dst):
                 # существующий README оставляем сверху, ссылки шаблона добавляем снизу
                 with open(dst, encoding="utf-8") as f:
