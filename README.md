@@ -8,9 +8,9 @@
 
 | Игра | Фаза | Движок | Прогресс | Открыто | Последний коммит | 30 дн. | Всего |
 |---|---|---|---|--:|---|--:|--:|
-| **[No-Extraction](https://github.com/artemiiShabanov/No-Extraction)**<br><sub>Снайпер на крепостной стене против волн рыцарей</sub> | вертикальный срез | Godot 4.7 | `██░░░░░░░░` 25% (13/53) | 40 | 2026-09-13<br><sub>Boundaries: walkway walls stop at the towers, wider tower ri</sub> | 0 | 38 |
-| **[RallyRivals](https://github.com/artemiiShabanov/RallyRivals)**<br><sub>Аркадные ралли-гонки против ИИ-соперников, 3D</sub> | контент | Godot 4.4 | `█████████░` 89% (131/148) | 17 | 2026-08-10<br><sub>Tasks: close art-vfx-damage — 131/148</sub> | 0 | 275 |
-| **[slash-dash-slash](https://github.com/artemiiShabanov/slash-dash-slash)**<br><sub>Мобильный слэшер с дэшем и самоцветами в офисном сеттинге</sub> | прототип | Godot 4.4 (mobile) | `█░░░░░░░░░` 14% (10/70) | 60 | 2026-05-19<br><sub>Ship hud + sync dash / equipment / gems</sub> | 0 | 28 |
+| **[No-Extraction](https://github.com/artemiiShabanov/No-Extraction)**<br><sub>Снайпер на крепостной стене против волн рыцарей</sub> | вертикальный срез | Godot 4.7 | `██░░░░░░░░` 25% (13/53) | 40 | 2026-10-25<br><sub>project.yaml: next reflects the open M1 issue (#10)</sub> | 2 | 40 |
+| **[slash-dash-slash](https://github.com/artemiiShabanov/slash-dash-slash)**<br><sub>Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией</sub> | прототип | Godot 4.4 (mobile) | `█░░░░░░░░░` 14% (10/70) | 60 | 2026-10-25<br><sub>Align with gamedev-hub workflow: docs/, plan.yaml, sync_plan</sub> | 1 | 29 |
+| **[RallyRivals](https://github.com/artemiiShabanov/RallyRivals)**<br><sub>Аркадные ралли-гонки против ИИ-соперников, 3D</sub> | контент | Godot 4.4 | `█████████░` 89% (132/149) | 17 | 2026-08-10<br><sub>Tasks: close art-vfx-damage — 131/148</sub> | 0 | 275 |
 
 ## Активность
 
@@ -18,7 +18,17 @@
 
 ![calendar](docs/calendar.svg)
 
+### RallyRivals
+
+- M0 Сделано до миграции `██████████` 100% 132/132 · закрыта
+- M1 Чувство езды и честная гонка `░░░░░░░░░░` 0% 0/6
+- M2 Вертикальный срез `░░░░░░░░░░` 0% 0/3
+- M3 Контент кампании `░░░░░░░░░░` 0% 0/4
+- M4 Релиз `░░░░░░░░░░` 0% 0/4
+
 ### No-Extraction
+
+Дальше: M1: закрыть плейтест 1 (#10) и ответить, весело ли ядро; дальше M2 контент
 
 - M0 Прототип и проверка рисков `██████████` 100% 4/4 · закрыта
 - M1 Вертикальный срез: один забег `█████████░` 90% 9/10
@@ -29,6 +39,8 @@
 - M6 Если останется время `░░░░░░░░░░` 0% 0/3
 
 ### slash-dash-slash
+
+Дальше: M1 Вертикальный срез: этаж B от старта до босса — сначала комбо гемов и арена с эскалацией (ROADMAP M7, M9)
 
 - M0 Боевое ядро `██████████` 100% 10/10 · закрыта
 - M1 Вертикальный срез: этаж B от старта до босса `░░░░░░░░░░` 0% 0/10
@@ -46,4 +58,4 @@
 - Новый проект: `python3 tools/new_project.py MyGame --tagline "..."`.
 - Автосборка: раз в сутки и при каждом пуше, см. `.github/workflows/dashboard.yml`.
 
-<sub>Обновлено 2026-10-25T13:17+03:00 (Europe/Moscow)</sub>
+<sub>Обновлено 2026-10-25T16:21+03:00 (Europe/Moscow)</sub>

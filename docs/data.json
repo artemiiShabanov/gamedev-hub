@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T13:17+03:00",
+ "generated_at": "2026-10-25T16:21+03:00",
  "timezone": "Europe/Moscow",
  "since": "2026-01-01",
  "owner": "artemiiShabanov",
@@ -13,7 +13,7 @@
    "phase": "content",
    "tagline": "Аркадные ралли-гонки против ИИ-соперников, 3D",
    "next": "",
-   "tracker": "tasks-yaml",
+   "tracker": "github-issues",
    "color": "#e4572e",
    "commits_total": 275,
    "active_days": 37,
@@ -22,10 +22,41 @@
    "last_message": "Tasks: close art-vfx-damage — 131/148",
    "pushed_at": "2026-08-10T12:53:28Z",
    "progress": {
-    "done": 131,
-    "total": 148,
+    "done": 132,
+    "total": 149,
     "open": 17,
-    "milestones": []
+    "milestones": [
+     {
+      "title": "M0 Сделано до миграции",
+      "open": 0,
+      "closed": 132,
+      "state": "closed"
+     },
+     {
+      "title": "M1 Чувство езды и честная гонка",
+      "open": 6,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M2 Вертикальный срез",
+      "open": 3,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M3 Контент кампании",
+      "open": 4,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M4 Релиз",
+      "open": 4,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
    }
   },
   {
@@ -36,15 +67,15 @@
    "engine": "Godot 4.7",
    "phase": "vertical-slice",
    "tagline": "Снайпер на крепостной стене против волн рыцарей",
-   "next": "",
+   "next": "M1: закрыть плейтест 1 (#10) и ответить, весело ли ядро; дальше M2 контент",
    "tracker": "github-issues",
    "color": "#3d8bfd",
-   "commits_total": 38,
-   "active_days": 6,
-   "commits_30d": 0,
-   "last_commit": "2026-09-13",
-   "last_message": "Boundaries: walkway walls stop at the towers, wider tower ring gaps, roof sides open (#8); castle modules use box-projected UVs; graphics presets re-tuned from measurements (medium without SSAO/MSAA, new ultra); --gfx/--tweak test hooks",
-   "pushed_at": "2026-09-13T17:13:50Z",
+   "commits_total": 40,
+   "active_days": 7,
+   "commits_30d": 2,
+   "last_commit": "2026-10-25",
+   "last_message": "project.yaml: next reflects the open M1 issue (#10)",
+   "pushed_at": "2026-10-25T11:02:01Z",
    "progress": {
     "done": 13,
     "total": 53,
@@ -102,16 +133,16 @@
    "url": "https://github.com/artemiiShabanov/slash-dash-slash",
    "engine": "Godot 4.4 (mobile)",
    "phase": "prototype",
-   "tagline": "Мобильный слэшер с дэшем и самоцветами в офисном сеттинге",
-   "next": "",
+   "tagline": "Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией",
+   "next": "M1 Вертикальный срез: этаж B от старта до босса — сначала комбо гемов и арена с эскалацией (ROADMAP M7, M9)",
    "tracker": "github-issues",
    "color": "#2ec4b6",
-   "commits_total": 28,
-   "active_days": 10,
-   "commits_30d": 0,
-   "last_commit": "2026-05-19",
-   "last_message": "Ship hud + sync dash / equipment / gems",
-   "pushed_at": "2026-05-19T19:56:15Z",
+   "commits_total": 29,
+   "active_days": 11,
+   "commits_30d": 1,
+   "last_commit": "2026-10-25",
+   "last_message": "Align with gamedev-hub workflow: docs/, plan.yaml, sync_plan, skills",
+   "pushed_at": "2026-10-25T11:05:01Z",
    "progress": {
     "done": 10,
     "total": 70,
@@ -328,6 +359,10 @@
   },
   "2026-09-13": {
    "no-extraction": 8
+  },
+  "2026-10-25": {
+   "no-extraction": 2,
+   "slash-dash-slash": 1
   }
  }
 }

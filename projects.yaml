@@ -16,7 +16,7 @@ projects:
     local: ~/Documents/GitHub/RallyRivals
     engine: Godot 4.4
     phase: content
-    tracker: tasks-yaml      # пока tasks.yaml + STATUS.md; мигрирует на github-issues
+    tracker: github-issues
     color: "#e4572e"
     tagline: Аркадные ралли-гонки против ИИ-соперников, 3D
 
