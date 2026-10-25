@@ -1,0 +1,21 @@
+# Godot 4
+.godot/
+.import/
+.nomedia
+export.cfg
+export_credentials.cfg
+*.translation
+*.tmp
+.mono/
+data_*/
+mono_crash.*.json
+
+# builds, playtest captures
+build/
+**/debug/playtest/
+
+# system / tooling
+.DS_Store
+__pycache__/
+.claude/settings.local.json
+.claude/worktrees/

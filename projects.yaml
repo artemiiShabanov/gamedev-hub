@@ -1,0 +1,41 @@
+# gamedev-hub: реестр проектов. Единственный файл, который правится руками.
+# Всё остальное (README.md, docs/, data/) генерирует `python3 tools/build_dashboard.py`.
+#
+# phase:  idea | prototype | vertical-slice | content | polish | released | paused | archived
+# color:  цвет проекта в календаре активности (hex)
+# tracker: github-issues | tasks-yaml | none  (как считать прогресс)
+
+owner: artemiiShabanov
+timezone: Europe/Moscow
+since: 2026-01-01          # с какой даты рисовать календарь
+
+projects:
+  - id: rally-rivals
+    name: RallyRivals
+    repo: artemiiShabanov/RallyRivals
+    local: ~/Documents/GitHub/RallyRivals
+    engine: Godot 4.4
+    phase: content
+    tracker: tasks-yaml      # пока tasks.yaml + STATUS.md; мигрирует на github-issues
+    color: "#e4572e"
+    tagline: Аркадные ралли-гонки против ИИ-соперников, 3D
+
+  - id: no-extraction
+    name: No-Extraction
+    repo: artemiiShabanov/No-Extraction
+    local: ~/Games/No-Extraction
+    engine: Godot 4.7
+    phase: vertical-slice
+    tracker: github-issues
+    color: "#3d8bfd"
+    tagline: Снайпер на крепостной стене против волн рыцарей
+
+  - id: slash-dash-slash
+    name: slash-dash-slash
+    repo: artemiiShabanov/slash-dash-slash
+    local: ~/Documents/GitHub/slash-dash-slash
+    engine: Godot 4.4 (mobile)
+    phase: prototype
+    tracker: github-issues
+    color: "#2ec4b6"
+    tagline: Мобильный слэшер с дэшем и самоцветами в офисном сеттинге

@@ -1,0 +1,333 @@
+{
+ "generated_at": "2026-10-25T13:12+03:00",
+ "timezone": "Europe/Moscow",
+ "since": "2026-01-01",
+ "owner": "artemiiShabanov",
+ "projects": [
+  {
+   "id": "rally-rivals",
+   "name": "RallyRivals",
+   "repo": "artemiiShabanov/RallyRivals",
+   "url": "https://github.com/artemiiShabanov/RallyRivals",
+   "engine": "Godot 4.4",
+   "phase": "content",
+   "tagline": "Аркадные ралли-гонки против ИИ-соперников, 3D",
+   "next": "",
+   "tracker": "tasks-yaml",
+   "color": "#e4572e",
+   "commits_total": 275,
+   "active_days": 37,
+   "commits_30d": 0,
+   "last_commit": "2026-08-10",
+   "last_message": "Tasks: close art-vfx-damage — 131/148",
+   "pushed_at": "2026-08-10T12:53:28Z",
+   "progress": {
+    "done": 131,
+    "total": 148,
+    "open": 17,
+    "milestones": []
+   }
+  },
+  {
+   "id": "no-extraction",
+   "name": "No-Extraction",
+   "repo": "artemiiShabanov/No-Extraction",
+   "url": "https://github.com/artemiiShabanov/No-Extraction",
+   "engine": "Godot 4.7",
+   "phase": "vertical-slice",
+   "tagline": "Снайпер на крепостной стене против волн рыцарей",
+   "next": "",
+   "tracker": "github-issues",
+   "color": "#3d8bfd",
+   "commits_total": 38,
+   "active_days": 6,
+   "commits_30d": 0,
+   "last_commit": "2026-09-13",
+   "last_message": "Boundaries: walkway walls stop at the towers, wider tower ring gaps, roof sides open (#8); castle modules use box-projected UVs; graphics presets re-tuned from measurements (medium without SSAO/MSAA, new ultra); --gfx/--tweak test hooks",
+   "pushed_at": "2026-09-13T17:13:50Z",
+   "progress": {
+    "done": 13,
+    "total": 53,
+    "open": 40,
+    "milestones": [
+     {
+      "title": "M0 Прототип и проверка рисков",
+      "open": 0,
+      "closed": 4,
+      "state": "closed"
+     },
+     {
+      "title": "M1 Вертикальный срез: один забег",
+      "open": 1,
+      "closed": 9,
+      "state": "open"
+     },
+     {
+      "title": "M2 Контент и разнообразие",
+      "open": 10,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M3 Мета и прогрессия",
+      "open": 6,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M4 Смачность и полировка",
+      "open": 10,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M5 Релиз в Steam",
+      "open": 10,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M6 Если останется время",
+      "open": 3,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  },
+  {
+   "id": "slash-dash-slash",
+   "name": "slash-dash-slash",
+   "repo": "artemiiShabanov/slash-dash-slash",
+   "url": "https://github.com/artemiiShabanov/slash-dash-slash",
+   "engine": "Godot 4.4 (mobile)",
+   "phase": "prototype",
+   "tagline": "Мобильный слэшер с дэшем и самоцветами в офисном сеттинге",
+   "next": "",
+   "tracker": "github-issues",
+   "color": "#2ec4b6",
+   "commits_total": 28,
+   "active_days": 10,
+   "commits_30d": 0,
+   "last_commit": "2026-05-19",
+   "last_message": "Ship hud + sync dash / equipment / gems",
+   "pushed_at": "2026-05-19T19:56:15Z",
+   "progress": {
+    "done": 10,
+    "total": 70,
+    "open": 60,
+    "milestones": [
+     {
+      "title": "M0 Боевое ядро",
+      "open": 0,
+      "closed": 10,
+      "state": "closed"
+     },
+     {
+      "title": "M1 Вертикальный срез: этаж B от старта до босса",
+      "open": 10,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M2 Контент и разнообразие",
+      "open": 11,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M3 Четыре этажа и история",
+      "open": 10,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M4 Мета и концовки",
+      "open": 8,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M5 Смачность и полировка",
+      "open": 9,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M6 Релиз",
+      "open": 8,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M7 Если останется время",
+      "open": 4,
+      "closed": 0,
+      "state": "open"
+     }
+    ]
+   }
+  }
+ ],
+ "activity": {
+  "2026-05-01": {
+   "slash-dash-slash": 1
+  },
+  "2026-05-06": {
+   "slash-dash-slash": 3
+  },
+  "2026-05-07": {
+   "slash-dash-slash": 5
+  },
+  "2026-05-09": {
+   "slash-dash-slash": 4
+  },
+  "2026-05-11": {
+   "slash-dash-slash": 1
+  },
+  "2026-05-13": {
+   "slash-dash-slash": 5
+  },
+  "2026-05-16": {
+   "slash-dash-slash": 2
+  },
+  "2026-05-17": {
+   "slash-dash-slash": 2
+  },
+  "2026-05-18": {
+   "slash-dash-slash": 3
+  },
+  "2026-05-19": {
+   "slash-dash-slash": 2
+  },
+  "2026-05-30": {
+   "rally-rivals": 1
+  },
+  "2026-05-31": {
+   "rally-rivals": 1
+  },
+  "2026-06-01": {
+   "rally-rivals": 2
+  },
+  "2026-06-02": {
+   "rally-rivals": 2
+  },
+  "2026-06-12": {
+   "rally-rivals": 1
+  },
+  "2026-06-13": {
+   "rally-rivals": 3
+  },
+  "2026-06-17": {
+   "rally-rivals": 2
+  },
+  "2026-07-09": {
+   "rally-rivals": 4
+  },
+  "2026-07-10": {
+   "rally-rivals": 2
+  },
+  "2026-07-11": {
+   "rally-rivals": 11
+  },
+  "2026-07-12": {
+   "rally-rivals": 10
+  },
+  "2026-07-13": {
+   "rally-rivals": 4
+  },
+  "2026-07-14": {
+   "rally-rivals": 11
+  },
+  "2026-07-15": {
+   "rally-rivals": 2
+  },
+  "2026-07-17": {
+   "rally-rivals": 21
+  },
+  "2026-07-18": {
+   "rally-rivals": 5
+  },
+  "2026-07-19": {
+   "rally-rivals": 24
+  },
+  "2026-07-20": {
+   "rally-rivals": 1
+  },
+  "2026-07-21": {
+   "rally-rivals": 8
+  },
+  "2026-07-22": {
+   "rally-rivals": 12
+  },
+  "2026-07-23": {
+   "rally-rivals": 17
+  },
+  "2026-07-24": {
+   "rally-rivals": 30
+  },
+  "2026-07-25": {
+   "rally-rivals": 9
+  },
+  "2026-07-26": {
+   "rally-rivals": 8
+  },
+  "2026-07-27": {
+   "rally-rivals": 1
+  },
+  "2026-07-28": {
+   "rally-rivals": 10
+  },
+  "2026-07-29": {
+   "rally-rivals": 16
+  },
+  "2026-07-31": {
+   "rally-rivals": 3
+  },
+  "2026-08-01": {
+   "rally-rivals": 15
+  },
+  "2026-08-02": {
+   "rally-rivals": 15
+  },
+  "2026-08-04": {
+   "rally-rivals": 1
+  },
+  "2026-08-05": {
+   "rally-rivals": 4
+  },
+  "2026-08-06": {
+   "rally-rivals": 2
+  },
+  "2026-08-07": {
+   "rally-rivals": 6
+  },
+  "2026-08-08": {
+   "rally-rivals": 4
+  },
+  "2026-08-09": {
+   "rally-rivals": 5
+  },
+  "2026-08-10": {
+   "rally-rivals": 2
+  },
+  "2026-09-06": {
+   "no-extraction": 1
+  },
+  "2026-09-08": {
+   "no-extraction": 10
+  },
+  "2026-09-09": {
+   "no-extraction": 8
+  },
+  "2026-09-11": {
+   "no-extraction": 5
+  },
+  "2026-09-12": {
+   "no-extraction": 6
+  },
+  "2026-09-13": {
+   "no-extraction": 8
+  }
+ }
+}
