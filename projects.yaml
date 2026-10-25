@@ -50,8 +50,8 @@ projects:
     phase: released
     tracker: none
     color: "#f4a261"
-    tagline: Бесплатные бесконечные гонки на Godot
-    store: ""            # TODO: ссылка на App Store
+    tagline: "Бесплатные бесконечные гонки на Godot (в App Store: Finger Rally)"
+    store: https://apps.apple.com/ru/app/finger-rally/id6752858585?l=en-GB
 
   - id: just-cards-actually
     name: Just-Cards-Actually
@@ -60,8 +60,8 @@ projects:
     phase: released
     tracker: none
     color: "#9b5de5"
-    tagline: Бесплатная игра про коллекционирование карт на Godot
-    store: ""            # TODO: ссылка на App Store
+    tagline: "Бесплатная игра про коллекционирование карт на Godot (в App Store: Card Collector Simulator)"
+    store: https://apps.apple.com/ru/app/card-collector-simulator/id6751577495?l=en-GB
 
   - id: office-worker-simulator
     name: Office-Worker-Simulator
