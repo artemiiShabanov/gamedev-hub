@@ -8,6 +8,7 @@
 <rect x="32" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="32" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="32" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="32" y="13">Nov</text>
 <rect x="32" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="32" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="47" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -15,7 +16,6 @@
 <rect x="47" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="47" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="47" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="47" y="13">Nov</text>
 <rect x="47" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="47" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="62" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -39,6 +39,7 @@
 <rect x="92" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="92" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="92" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="107" y="13">Dec</text>
 <rect x="107" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="107" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="107" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -46,7 +47,6 @@
 <rect x="107" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="107" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="107" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="122" y="13">Dec</text>
 <rect x="122" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="122" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="122" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -75,6 +75,7 @@
 <rect x="167" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="167" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="167" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="182" y="13">Jan</text>
 <rect x="182" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="182" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="182" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -82,7 +83,6 @@
 <rect x="182" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="182" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="182" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="197" y="13">Jan</text>
 <rect x="197" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="197" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="197" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -104,6 +104,7 @@
 <rect x="227" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="227" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="227" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="242" y="13">Feb</text>
 <rect x="242" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="242" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="242" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -111,7 +112,6 @@
 <rect x="242" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="242" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="242" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="257" y="13">Feb</text>
 <rect x="257" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="257" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="257" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -133,6 +133,7 @@
 <rect x="287" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="287" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="287" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="302" y="13">Mar</text>
 <rect x="302" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="302" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="302" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -140,7 +141,6 @@
 <rect x="302" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="302" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="302" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="317" y="13">Mar</text>
 <rect x="317" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="317" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="317" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -169,6 +169,7 @@
 <rect x="362" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="362" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="362" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="377" y="13">Apr</text>
 <rect x="377" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="377" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="377" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -176,7 +177,6 @@
 <rect x="377" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="377" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="377" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="392" y="13">Apr</text>
 <rect x="392" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="392" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="392" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -195,97 +195,97 @@
 <rect x="422" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="422" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="422" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="422" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-05-01: slash-dash-slash 1</title>
+<rect x="422" y="80" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.48"/>
+</g>
 <rect x="422" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="422" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="437" y="13">May</text>
 <rect x="437" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="437" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="437" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="437" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-05-01: slash-dash-slash 1</title>
-<rect x="437" y="80" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.48"/>
-</g>
-<rect x="437" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="437" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="452" y="13">May</text>
-<rect x="452" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="452" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-05-06: slash-dash-slash 3</title>
-<rect x="452" y="50" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.54"/>
+<rect x="437" y="50" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.54"/>
 </g>
 <g><title>2026-05-07: slash-dash-slash 5</title>
-<rect x="452" y="65" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.60"/>
+<rect x="437" y="65" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.60"/>
 </g>
-<rect x="452" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="437" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-05-09: slash-dash-slash 4</title>
-<rect x="452" y="95" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.57"/>
+<rect x="437" y="95" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.57"/>
 </g>
-<rect x="452" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="437" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-05-11: slash-dash-slash 1</title>
-<rect x="467" y="20" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.48"/>
+<rect x="452" y="20" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.48"/>
 </g>
-<rect x="467" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="452" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-05-13: slash-dash-slash 5</title>
-<rect x="467" y="50" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.60"/>
+<rect x="452" y="50" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.60"/>
 </g>
-<rect x="467" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="467" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="452" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="452" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-05-16: slash-dash-slash 2</title>
-<rect x="467" y="95" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.51"/>
+<rect x="452" y="95" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.51"/>
 </g>
 <g><title>2026-05-17: slash-dash-slash 2</title>
-<rect x="467" y="110" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.51"/>
+<rect x="452" y="110" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.51"/>
 </g>
 <g><title>2026-05-18: slash-dash-slash 3</title>
-<rect x="482" y="20" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.54"/>
+<rect x="467" y="20" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.54"/>
 </g>
 <g><title>2026-05-19: slash-dash-slash 2</title>
-<rect x="482" y="35" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.51"/>
+<rect x="467" y="35" width="12" height="12" rx="2" fill="#2ec4b6" fill-opacity="0.51"/>
 </g>
+<rect x="467" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="467" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="467" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="467" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="467" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="482" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="482" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="482" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="482" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="482" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="482" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="482" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="497" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="497" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-05-30: RallyRivals 1</title>
+<rect x="482" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+</g>
+<g><title>2026-05-31: RallyRivals 1</title>
+<rect x="482" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+</g>
+<text x="497" y="13">Jun</text>
+<g><title>2026-06-01: RallyRivals 2</title>
+<rect x="497" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+</g>
+<g><title>2026-06-02: RallyRivals 2</title>
+<rect x="497" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+</g>
 <rect x="497" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="497" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="497" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-05-30: RallyRivals 1</title>
-<rect x="497" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
-</g>
-<g><title>2026-05-31: RallyRivals 1</title>
-<rect x="497" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
-</g>
-<text x="512" y="13">Jun</text>
-<g><title>2026-06-01: RallyRivals 2</title>
-<rect x="512" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
-</g>
-<g><title>2026-06-02: RallyRivals 2</title>
-<rect x="512" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
-</g>
+<rect x="497" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="497" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="512" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="512" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="512" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="512" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="512" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="512" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-06-12: RallyRivals 1</title>
+<rect x="512" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+</g>
+<g><title>2026-06-13: RallyRivals 3</title>
+<rect x="512" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.54"/>
+</g>
 <rect x="512" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="527" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="527" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="527" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-06-17: RallyRivals 2</title>
+<rect x="527" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+</g>
 <rect x="527" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-06-12: RallyRivals 1</title>
-<rect x="527" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
-</g>
-<g><title>2026-06-13: RallyRivals 3</title>
-<rect x="527" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.54"/>
-</g>
+<rect x="527" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="527" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="527" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="542" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="542" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-06-17: RallyRivals 2</title>
-<rect x="542" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
-</g>
+<rect x="542" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="542" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="542" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="542" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -297,111 +297,111 @@
 <rect x="557" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="557" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="557" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="572" y="13">Jul</text>
 <rect x="572" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="572" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="572" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="572" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="572" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="572" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="572" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="587" y="13">Jul</text>
-<rect x="587" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="587" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="587" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-07-09: RallyRivals 4</title>
-<rect x="587" y="65" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
+<rect x="572" y="65" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
 </g>
 <g><title>2026-07-10: RallyRivals 2</title>
-<rect x="587" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+<rect x="572" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
 </g>
 <g><title>2026-07-11: RallyRivals 11</title>
-<rect x="587" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.79"/>
+<rect x="572" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.79"/>
 </g>
 <g><title>2026-07-12: RallyRivals 10</title>
-<rect x="587" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.76"/>
+<rect x="572" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.76"/>
 </g>
 <g><title>2026-07-13: RallyRivals 4</title>
-<rect x="602" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
+<rect x="587" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
 </g>
 <g><title>2026-07-14: RallyRivals 11</title>
-<rect x="602" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.79"/>
+<rect x="587" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.79"/>
 </g>
 <g><title>2026-07-15: RallyRivals 2</title>
-<rect x="602" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+<rect x="587" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
 </g>
-<rect x="602" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="587" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-07-17: RallyRivals 21</title>
-<rect x="602" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="1.00"/>
+<rect x="587" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="1.00"/>
 </g>
 <g><title>2026-07-18: RallyRivals 5</title>
-<rect x="602" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.60"/>
+<rect x="587" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.60"/>
 </g>
 <g><title>2026-07-19: RallyRivals 24</title>
-<rect x="602" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="1.00"/>
+<rect x="587" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="1.00"/>
 </g>
 <g><title>2026-07-20: RallyRivals 1</title>
-<rect x="617" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+<rect x="602" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
 </g>
 <g><title>2026-07-21: RallyRivals 8</title>
-<rect x="617" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.69"/>
+<rect x="602" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.69"/>
 </g>
 <g><title>2026-07-22: RallyRivals 12</title>
-<rect x="617" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.82"/>
+<rect x="602" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.82"/>
 </g>
 <g><title>2026-07-23: RallyRivals 17</title>
-<rect x="617" y="65" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.97"/>
+<rect x="602" y="65" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.97"/>
 </g>
 <g><title>2026-07-24: RallyRivals 30</title>
-<rect x="617" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="1.00"/>
+<rect x="602" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="1.00"/>
 </g>
 <g><title>2026-07-25: RallyRivals 9</title>
-<rect x="617" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.73"/>
+<rect x="602" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.73"/>
 </g>
 <g><title>2026-07-26: RallyRivals 8</title>
-<rect x="617" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.69"/>
+<rect x="602" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.69"/>
 </g>
 <g><title>2026-07-27: RallyRivals 1</title>
-<rect x="632" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+<rect x="617" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
 </g>
 <g><title>2026-07-28: RallyRivals 10</title>
-<rect x="632" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.76"/>
+<rect x="617" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.76"/>
 </g>
 <g><title>2026-07-29: RallyRivals 16</title>
-<rect x="632" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.94"/>
+<rect x="617" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.94"/>
 </g>
-<rect x="632" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="617" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-07-31: RallyRivals 3</title>
-<rect x="632" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.54"/>
+<rect x="617" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.54"/>
 </g>
 <g><title>2026-08-01: RallyRivals 15</title>
-<rect x="632" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.91"/>
+<rect x="617" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.91"/>
 </g>
 <g><title>2026-08-02: RallyRivals 15</title>
-<rect x="632" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.91"/>
+<rect x="617" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.91"/>
 </g>
-<text x="647" y="13">Aug</text>
-<rect x="647" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="632" y="13">Aug</text>
+<rect x="632" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-08-04: RallyRivals 1</title>
-<rect x="647" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+<rect x="632" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
 </g>
 <g><title>2026-08-05: RallyRivals 4</title>
-<rect x="647" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
+<rect x="632" y="50" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
 </g>
 <g><title>2026-08-06: RallyRivals 2</title>
-<rect x="647" y="65" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+<rect x="632" y="65" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
 </g>
 <g><title>2026-08-07: RallyRivals 6</title>
-<rect x="647" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.63"/>
+<rect x="632" y="80" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.63"/>
 </g>
 <g><title>2026-08-08: RallyRivals 4</title>
-<rect x="647" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
+<rect x="632" y="95" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.57"/>
 </g>
 <g><title>2026-08-09: RallyRivals 5</title>
-<rect x="647" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.60"/>
+<rect x="632" y="110" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.60"/>
 </g>
 <g><title>2026-08-10: RallyRivals 2</title>
-<rect x="662" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
+<rect x="647" y="20" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.51"/>
 </g>
+<rect x="647" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="647" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="647" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="647" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="647" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="647" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="662" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="662" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="662" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="662" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -416,41 +416,41 @@
 <rect x="677" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="677" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="692" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="692" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-09-01: RallyRivals 1</title>
+<rect x="692" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
+</g>
 <rect x="692" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="692" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="692" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="692" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="692" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="707" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<g><title>2026-09-01: RallyRivals 1</title>
-<rect x="707" y="35" width="12" height="12" rx="2" fill="#e4572e" fill-opacity="0.48"/>
-</g>
-<rect x="707" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="707" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="707" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="707" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-09-06: No-Extraction 1</title>
-<rect x="707" y="110" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.48"/>
+<rect x="692" y="110" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.48"/>
 </g>
-<text x="722" y="13">Sep</text>
-<rect x="722" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="707" y="13">Sep</text>
+<rect x="707" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-09-08: No-Extraction 10</title>
-<rect x="722" y="35" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.76"/>
+<rect x="707" y="35" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.76"/>
 </g>
 <g><title>2026-09-09: No-Extraction 8</title>
-<rect x="722" y="50" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.69"/>
+<rect x="707" y="50" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.69"/>
 </g>
-<rect x="722" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="707" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-09-11: No-Extraction 5</title>
-<rect x="722" y="80" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.60"/>
+<rect x="707" y="80" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.60"/>
 </g>
 <g><title>2026-09-12: No-Extraction 6</title>
-<rect x="722" y="95" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.63"/>
+<rect x="707" y="95" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.63"/>
 </g>
 <g><title>2026-09-13: No-Extraction 8</title>
-<rect x="722" y="110" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.69"/>
+<rect x="707" y="110" width="12" height="12" rx="2" fill="#3d8bfd" fill-opacity="0.69"/>
 </g>
+<rect x="722" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="722" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="722" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="722" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="722" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="722" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<rect x="722" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="737" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="737" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="737" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -465,6 +465,7 @@
 <rect x="752" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="752" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="752" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<text x="767" y="13">Oct</text>
 <rect x="767" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="767" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="767" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -472,7 +473,6 @@
 <rect x="767" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="767" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="767" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<text x="782" y="13">Oct</text>
 <rect x="782" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="782" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="782" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
@@ -486,26 +486,20 @@
 <rect x="797" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="797" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="797" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="797" y="110" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="812" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="812" y="35" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="812" y="50" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="812" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="812" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
-<rect x="812" y="95" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <g><title>2026-10-25: Chess-Roguelike 3, Tile-Walker 3, Balloon 3, Robbers 3, Interactive-Museum 3, B&W 3, Last H!t 3, The Games 3, RallyRivals 2, No-Extraction 2, slash-dash-slash 1</title>
-<rect x="812" y="110" width="12" height="1" fill="#7b2cbf" fill-opacity="1.00"/>
-<rect x="812" y="111" width="12" height="1" fill="#06d6a0" fill-opacity="1.00"/>
-<rect x="812" y="112" width="12" height="1" fill="#ef476f" fill-opacity="1.00"/>
-<rect x="812" y="113" width="12" height="1" fill="#a0522d" fill-opacity="1.00"/>
-<rect x="812" y="114" width="12" height="1" fill="#118ab2" fill-opacity="1.00"/>
-<rect x="812" y="115" width="12" height="1" fill="#495057" fill-opacity="1.00"/>
-<rect x="812" y="116" width="12" height="1" fill="#b5179e" fill-opacity="1.00"/>
-<rect x="812" y="117" width="12" height="1" fill="#ffd166" fill-opacity="1.00"/>
-<rect x="812" y="118" width="12" height="1" fill="#e4572e" fill-opacity="1.00"/>
-<rect x="812" y="119" width="12" height="1" fill="#3d8bfd" fill-opacity="1.00"/>
-<rect x="812" y="120" width="12" height="1" fill="#2ec4b6" fill-opacity="1.00"/>
+<rect x="797" y="110" width="12" height="1" fill="#7b2cbf" fill-opacity="1.00"/>
+<rect x="797" y="111" width="12" height="1" fill="#06d6a0" fill-opacity="1.00"/>
+<rect x="797" y="112" width="12" height="1" fill="#ef476f" fill-opacity="1.00"/>
+<rect x="797" y="113" width="12" height="1" fill="#a0522d" fill-opacity="1.00"/>
+<rect x="797" y="114" width="12" height="1" fill="#118ab2" fill-opacity="1.00"/>
+<rect x="797" y="115" width="12" height="1" fill="#495057" fill-opacity="1.00"/>
+<rect x="797" y="116" width="12" height="1" fill="#b5179e" fill-opacity="1.00"/>
+<rect x="797" y="117" width="12" height="1" fill="#ffd166" fill-opacity="1.00"/>
+<rect x="797" y="118" width="12" height="1" fill="#e4572e" fill-opacity="1.00"/>
+<rect x="797" y="119" width="12" height="1" fill="#3d8bfd" fill-opacity="1.00"/>
+<rect x="797" y="120" width="12" height="1" fill="#2ec4b6" fill-opacity="1.00"/>
 </g>
+<rect x="812" y="20" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="32" y="139" width="12" height="12" rx="2" fill="#e4572e"/>
 <text x="49" y="149">RallyRivals · 39 дн.</text>
 <rect x="179" y="139" width="12" height="12" rx="2" fill="#3d8bfd"/>
