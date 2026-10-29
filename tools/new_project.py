@@ -42,7 +42,7 @@ def main():
     ap.add_argument("--tagline", required=True, help="Одна фраза про игру")
     ap.add_argument("--engine", default="Godot 4.4")
     ap.add_argument("--renderer", default="forward_plus", choices=["forward_plus", "mobile", "gl_compatibility"])
-    ap.add_argument("--dir", default="~/Documents/GitHub", help="Куда класть папку проекта")
+    ap.add_argument("--dir", default="~/Games", help="Куда класть папку проекта")
     ap.add_argument("--color", help="Цвет в календаре хаба, hex")
     ap.add_argument("--private", action="store_true")
     ap.add_argument("--no-github", action="store_true", help="Не создавать репозиторий на GitHub")

@@ -52,7 +52,7 @@ def main():
     ap.add_argument("--engine", default="Godot 4.4")
     ap.add_argument("--color")
     ap.add_argument("--local", help="Существующий клон; иначе клонируется в --dir")
-    ap.add_argument("--dir", default="~/Documents/GitHub")
+    ap.add_argument("--dir", default="~/Games")
     ap.add_argument("--no-push", action="store_true")
     args = ap.parse_args()
 
