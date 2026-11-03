@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T14:13+03:00",
+ "generated_at": "2026-11-03T13:56+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,12 +538,12 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 16,
-   "active_days": 5,
-   "commits_30d": 13,
-   "last_commit": "2026-11-01",
-   "last_message": "GDD: насыщение как отдельная механика, метка насыщения в конструкторе остаётся",
-   "pushed_at": "2026-11-01T18:36:44Z",
+   "commits_total": 38,
+   "active_days": 6,
+   "commits_30d": 35,
+   "last_commit": "2026-11-02",
+   "last_message": "STYLE.md согласован, концепты закреплены как визуальные референсы",
+   "pushed_at": "2026-11-02T20:47:08Z",
    "progress": {
     "done": 0,
     "total": 1,
@@ -890,7 +890,10 @@
    "the-games": 2
   },
   "2026-11-01": {
-   "the-games": 8
+   "the-games": 12
+  },
+  "2026-11-02": {
+   "the-games": 18
   }
  }
 }
