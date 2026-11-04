@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T13:56+03:00",
+ "generated_at": "2026-11-04T13:58+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,12 +538,12 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 38,
-   "active_days": 6,
-   "commits_30d": 35,
-   "last_commit": "2026-11-02",
-   "last_message": "STYLE.md согласован, концепты закреплены как визуальные референсы",
-   "pushed_at": "2026-11-02T20:47:08Z",
+   "commits_total": 55,
+   "active_days": 7,
+   "commits_30d": 52,
+   "last_commit": "2026-11-03",
+   "last_message": "Спека меты: частота вставок, формат, восемь персонажей, одиннадцать вставок v1",
+   "pushed_at": "2026-11-03T19:50:04Z",
    "progress": {
     "done": 0,
     "total": 1,
@@ -894,6 +894,9 @@
   },
   "2026-11-02": {
    "the-games": 18
+  },
+  "2026-11-03": {
+   "the-games": 17
   }
  }
 }
