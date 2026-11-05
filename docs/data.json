@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T13:58+03:00",
+ "generated_at": "2026-11-05T13:59+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,20 +538,56 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 55,
-   "active_days": 7,
-   "commits_30d": 52,
-   "last_commit": "2026-11-03",
-   "last_message": "Спека меты: частота вставок, формат, восемь персонажей, одиннадцать вставок v1",
-   "pushed_at": "2026-11-03T19:50:04Z",
+   "commits_total": 66,
+   "active_days": 8,
+   "commits_30d": 63,
+   "last_commit": "2026-11-04",
+   "last_message": "Дебаг-меню: автолоад Debug, реестр ручек, разделы, горячие клавиши (#20)",
+   "pushed_at": "2026-11-04T17:45:43Z",
    "progress": {
-    "done": 0,
-    "total": 1,
-    "open": 1,
+    "done": 1,
+    "total": 20,
+    "open": 19,
     "milestones": [
      {
       "title": "M0 Прототип",
-      "open": 1,
+      "open": 19,
+      "closed": 1,
+      "state": "open"
+     },
+     {
+      "title": "M1 Петля",
+      "open": 0,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M2 Первый забег",
+      "open": 0,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M3 Двумерные технологии",
+      "open": 0,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M4 Объём",
+      "open": 0,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M5 Контент и арт",
+      "open": 0,
+      "closed": 0,
+      "state": "open"
+     },
+     {
+      "title": "M6 Полировка и релиз",
+      "open": 0,
       "closed": 0,
       "state": "open"
      }
@@ -897,6 +933,9 @@
   },
   "2026-11-03": {
    "the-games": 17
+  },
+  "2026-11-04": {
+   "the-games": 11
   }
  }
 }
