@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T13:59+03:00",
+ "generated_at": "2026-11-06T13:56+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,21 +538,21 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 66,
-   "active_days": 8,
-   "commits_30d": 63,
-   "last_commit": "2026-11-04",
-   "last_message": "Дебаг-меню: автолоад Debug, реестр ручек, разделы, горячие клавиши (#20)",
-   "pushed_at": "2026-11-04T17:45:43Z",
+   "commits_total": 94,
+   "active_days": 9,
+   "commits_30d": 91,
+   "last_commit": "2026-11-05",
+   "last_message": "Петля M0 и звуки оболочки (#18, #17)",
+   "pushed_at": "2026-11-05T20:32:04Z",
    "progress": {
-    "done": 1,
-    "total": 20,
-    "open": 19,
+    "done": 6,
+    "total": 21,
+    "open": 15,
     "milestones": [
      {
       "title": "M0 Прототип",
-      "open": 19,
-      "closed": 1,
+      "open": 15,
+      "closed": 6,
       "state": "open"
      },
      {
@@ -936,6 +936,9 @@
   },
   "2026-11-04": {
    "the-games": 11
+  },
+  "2026-11-05": {
+   "the-games": 28
   }
  }
 }

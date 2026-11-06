@@ -513,7 +513,10 @@
 <g><title>2026-11-04: The Games 11</title>
 <rect x="812" y="50" width="12" height="12" rx="2" fill="#ffd166" fill-opacity="0.79"/>
 </g>
-<rect x="812" y="65" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
+<g><title>2026-11-05: The Games 28</title>
+<rect x="812" y="65" width="12" height="12" rx="2" fill="#ffd166" fill-opacity="1.00"/>
+</g>
+<rect x="812" y="80" width="12" height="12" rx="2" fill="#8b949e" fill-opacity="0.18"/>
 <rect x="32" y="139" width="12" height="12" rx="2" fill="#e4572e"/>
 <text x="49" y="149">RallyRivals · 39 дн.</text>
 <rect x="179" y="139" width="12" height="12" rx="2" fill="#3d8bfd"/>
@@ -543,5 +546,5 @@
 <rect x="2023" y="139" width="12" height="12" rx="2" fill="#b5179e"/>
 <text x="2040" y="149">Last H!t · 3 дн.</text>
 <rect x="2147" y="139" width="12" height="12" rx="2" fill="#ffd166"/>
-<text x="2164" y="149">The Games · 8 дн.</text>
+<text x="2164" y="149">The Games · 9 дн.</text>
 </svg>
