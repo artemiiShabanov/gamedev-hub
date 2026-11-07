@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T13:56+03:00",
+ "generated_at": "2026-11-07T13:15+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,26 +538,26 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 94,
-   "active_days": 9,
-   "commits_30d": 91,
-   "last_commit": "2026-11-05",
-   "last_message": "Петля M0 и звуки оболочки (#18, #17)",
-   "pushed_at": "2026-11-05T20:32:04Z",
+   "commits_total": 106,
+   "active_days": 11,
+   "commits_30d": 103,
+   "last_commit": "2026-11-07",
+   "last_message": "Конструктор: вертикальные карусели, кнопка снова в смете (#23)",
+   "pushed_at": "2026-11-07T08:26:04Z",
    "progress": {
-    "done": 6,
-    "total": 21,
-    "open": 15,
+    "done": 21,
+    "total": 40,
+    "open": 19,
     "milestones": [
      {
       "title": "M0 Прототип",
-      "open": 15,
-      "closed": 6,
-      "state": "open"
+      "open": 0,
+      "closed": 21,
+      "state": "closed"
      },
      {
       "title": "M1 Петля",
-      "open": 0,
+      "open": 19,
       "closed": 0,
       "state": "open"
      },
@@ -939,6 +939,12 @@
   },
   "2026-11-05": {
    "the-games": 28
+  },
+  "2026-11-06": {
+   "the-games": 6
+  },
+  "2026-11-07": {
+   "the-games": 6
   }
  }
 }
