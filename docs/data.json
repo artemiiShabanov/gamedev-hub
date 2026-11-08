@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T13:15+03:00",
+ "generated_at": "2026-11-08T13:26+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 106,
-   "active_days": 11,
-   "commits_30d": 103,
-   "last_commit": "2026-11-07",
-   "last_message": "Конструктор: вертикальные карусели, кнопка снова в смете (#23)",
-   "pushed_at": "2026-11-07T08:26:04Z",
+   "commits_total": 139,
+   "active_days": 12,
+   "commits_30d": 136,
+   "last_commit": "2026-11-08",
+   "last_message": "Петля M1: RunState и главная сцена через все фазы (#30)",
+   "pushed_at": "2026-11-08T07:51:39Z",
    "progress": {
-    "done": 21,
+    "done": 32,
     "total": 40,
-    "open": 19,
+    "open": 8,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -557,8 +557,8 @@
      },
      {
       "title": "M1 Петля",
-      "open": 19,
-      "closed": 0,
+      "open": 8,
+      "closed": 11,
       "state": "open"
      },
      {
@@ -944,6 +944,9 @@
    "the-games": 6
   },
   "2026-11-07": {
+   "the-games": 33
+  },
+  "2026-11-08": {
    "the-games": 6
   }
  }
