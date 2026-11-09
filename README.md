@@ -8,7 +8,7 @@
 
 | Игра | Фаза | Движок | Прогресс | Открыто | Последний коммит | 30 дн. | Всего |
 |---|---|---|---|--:|---|--:|--:|
-| **[The Games](https://github.com/artemiiShabanov/The-games)**<br><sub>The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском</sub> | идея | Godot 4.4 | `████████░░` 80% (32/40) | 8 | 2026-11-08<br><sub>Петля M1: RunState и главная сцена через все фазы (#30)</sub> | 136 | 139 |
+| **[The Games](https://github.com/artemiiShabanov/The-games)**<br><sub>The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском</sub> | идея | Godot 4.4 | `██████░░░░` 59% (43/73) | 30 | 2026-11-08<br><sub>M1 закрыта, тридцать задач M2 (#44-#73)</sub> | 143 | 146 |
 | **[RallyRivals](https://github.com/artemiiShabanov/RallyRivals)**<br><sub>Аркадные ралли-гонки против ИИ-соперников, 3D</sub> | контент | Godot 4.4 | `█████████░` 89% (132/149) | 17 | 2026-10-25<br><sub>Workflow: drop tasks.yaml, tasks.py and STATUS.md — the back</sub> | 2 | 278 |
 | **[No-Extraction](https://github.com/artemiiShabanov/No-Extraction)**<br><sub>Снайпер на крепостной стене против волн рыцарей</sub> | вертикальный срез | Godot 4.7 | `██░░░░░░░░` 25% (13/53) | 40 | 2026-10-25<br><sub>project.yaml: next reflects the open M1 issue (#10)</sub> | 2 | 40 |
 | **[slash-dash-slash](https://github.com/artemiiShabanov/slash-dash-slash)**<br><sub>Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией</sub> | прототип | Godot 4.4 (mobile) | `█░░░░░░░░░` 14% (10/70) | 60 | 2026-10-25<br><sub>Align with gamedev-hub workflow: docs/, plan.yaml, sync_plan</sub> | 1 | 29 |
@@ -96,7 +96,8 @@
 ### The Games
 
 - M0 Прототип `██████████` 100% 21/21 · закрыта
-- M1 Петля `██████░░░░` 58% 11/19
+- M1 Петля `██████████` 100% 22/22 · закрыта
+- M2 Первый забег `░░░░░░░░░░` 0% 0/30
 
 ## Как пользоваться
 
@@ -105,4 +106,4 @@
 - Новый проект: `python3 tools/new_project.py MyGame --tagline "..."`.
 - Автосборка: раз в сутки и при каждом пуше, см. `.github/workflows/dashboard.yml`.
 
-<sub>Обновлено 2026-11-08T13:26+03:00 (Europe/Moscow)</sub>
+<sub>Обновлено 2026-11-09T14:37+03:00 (Europe/Moscow)</sub>
