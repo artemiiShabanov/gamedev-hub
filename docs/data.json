@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-09T14:37+03:00",
+ "generated_at": "2026-11-10T14:15+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 146,
-   "active_days": 12,
-   "commits_30d": 143,
-   "last_commit": "2026-11-08",
-   "last_message": "M1 закрыта, тридцать задач M2 (#44-#73)",
-   "pushed_at": "2026-11-08T16:52:31Z",
+   "commits_total": 182,
+   "active_days": 14,
+   "commits_30d": 179,
+   "last_commit": "2026-11-10",
+   "last_message": "Демка спорт × 8-bit: гольф на пляже, лунки из сида, ветер, бот считает траекторию (#52)",
+   "pushed_at": "2026-11-10T10:45:34Z",
    "progress": {
-    "done": 43,
-    "total": 73,
-    "open": 30,
+    "done": 48,
+    "total": 76,
+    "open": 28,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -563,8 +563,8 @@
      },
      {
       "title": "M2 Первый забег",
-      "open": 30,
-      "closed": 0,
+      "open": 28,
+      "closed": 5,
       "state": "open"
      },
      {
@@ -948,6 +948,12 @@
   },
   "2026-11-08": {
    "the-games": 13
+  },
+  "2026-11-09": {
+   "the-games": 27
+  },
+  "2026-11-10": {
+   "the-games": 9
   }
  }
 }
