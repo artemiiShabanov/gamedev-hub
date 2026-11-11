@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T14:15+03:00",
+ "generated_at": "2026-11-11T14:00+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 182,
-   "active_days": 14,
-   "commits_30d": 179,
-   "last_commit": "2026-11-10",
-   "last_message": "Демка спорт × 8-bit: гольф на пляже, лунки из сида, ветер, бот считает траекторию (#52)",
-   "pushed_at": "2026-11-10T10:45:34Z",
+   "commits_total": 222,
+   "active_days": 15,
+   "commits_30d": 219,
+   "last_commit": "2026-11-11",
+   "last_message": "Плейтест: шрифты без субпиксельных копий, плотные панели, шире строки настроек, спринты поверх студии (#81, #80)",
+   "pushed_at": "2026-11-11T10:49:39Z",
    "progress": {
-    "done": 48,
-    "total": 76,
-    "open": 28,
+    "done": 52,
+    "total": 87,
+    "open": 35,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -563,8 +563,8 @@
      },
      {
       "title": "M2 Первый забег",
-      "open": 28,
-      "closed": 5,
+      "open": 33,
+      "closed": 9,
       "state": "open"
      },
      {
@@ -581,7 +581,7 @@
      },
      {
       "title": "M5 Контент и арт",
-      "open": 0,
+      "open": 2,
       "closed": 0,
       "state": "open"
      },
@@ -953,7 +953,10 @@
    "the-games": 27
   },
   "2026-11-10": {
-   "the-games": 9
+   "the-games": 28
+  },
+  "2026-11-11": {
+   "the-games": 21
   }
  }
 }
