@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12T14:17+03:00",
+ "generated_at": "2026-11-13T14:02+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 253,
-   "active_days": 16,
-   "commits_30d": 250,
-   "last_commit": "2026-11-12",
-   "last_message": "Платформер × 16/32-bit «по клеткам»: уровень из сида, шипы, якорь, плиты, стражники, крупный план ×3 (#98)",
-   "pushed_at": "2026-11-12T10:41:10Z",
+   "commits_total": 297,
+   "active_days": 17,
+   "commits_30d": 294,
+   "last_commit": "2026-11-13",
+   "last_message": "Замер кадров «продвинутых» ждёт сборку шейдеров (#119)",
+   "pushed_at": "2026-11-13T10:50:11Z",
    "progress": {
-    "done": 92,
-    "total": 106,
-    "open": 14,
+    "done": 104,
+    "total": 129,
+    "open": 25,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -569,19 +569,19 @@
      },
      {
       "title": "M3 Двумерные технологии",
-      "open": 12,
-      "closed": 7,
-      "state": "open"
+      "open": 0,
+      "closed": 19,
+      "state": "closed"
      },
      {
       "title": "M4 Объём",
-      "open": 0,
+      "open": 22,
       "closed": 0,
       "state": "open"
      },
      {
       "title": "M5 Контент и арт",
-      "open": 2,
+      "open": 3,
       "closed": 0,
       "state": "open"
      },
@@ -959,7 +959,10 @@
    "the-games": 41
   },
   "2026-11-12": {
-   "the-games": 11
+   "the-games": 37
+  },
+  "2026-11-13": {
+   "the-games": 18
   }
  }
 }
