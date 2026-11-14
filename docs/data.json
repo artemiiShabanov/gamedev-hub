@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T14:02+03:00",
+ "generated_at": "2026-11-14T13:29+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 297,
-   "active_days": 17,
-   "commits_30d": 294,
-   "last_commit": "2026-11-13",
-   "last_message": "Замер кадров «продвинутых» ждёт сборку шейдеров (#119)",
-   "pushed_at": "2026-11-13T10:50:11Z",
+   "commits_total": 341,
+   "active_days": 18,
+   "commits_30d": 338,
+   "last_commit": "2026-11-14",
+   "last_message": "«Бей»: 14 с, старт как прежние t 0,5, промах с t 0,5 стоит кружка (#131)",
+   "pushed_at": "2026-11-14T10:24:26Z",
    "progress": {
-    "done": 104,
-    "total": 129,
-    "open": 25,
+    "done": 126,
+    "total": 132,
+    "open": 6,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -575,13 +575,13 @@
      },
      {
       "title": "M4 Объём",
-      "open": 22,
-      "closed": 0,
-      "state": "open"
+      "open": 0,
+      "closed": 22,
+      "state": "closed"
      },
      {
       "title": "M5 Контент и арт",
-      "open": 3,
+      "open": 6,
       "closed": 0,
       "state": "open"
      },
@@ -962,7 +962,10 @@
    "the-games": 37
   },
   "2026-11-13": {
-   "the-games": 18
+   "the-games": 40
+  },
+  "2026-11-14": {
+   "the-games": 22
   }
  }
 }
