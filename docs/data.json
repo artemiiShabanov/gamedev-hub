@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T13:29+03:00",
+ "generated_at": "2026-11-15T13:58+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 341,
-   "active_days": 18,
-   "commits_30d": 338,
-   "last_commit": "2026-11-14",
-   "last_message": "«Бей»: 14 с, старт как прежние t 0,5, промах с t 0,5 стоит кружка (#131)",
-   "pushed_at": "2026-11-14T10:24:26Z",
+   "commits_total": 380,
+   "active_days": 19,
+   "commits_30d": 377,
+   "last_commit": "2026-11-15",
+   "last_message": "Гонки 3D: три круга, резинка и быстрее соперники, шлюпка едет по настилу трамплина, гул заряда в заносе (#132)",
+   "pushed_at": "2026-11-15T10:09:40Z",
    "progress": {
     "done": 126,
-    "total": 132,
-    "open": 6,
+    "total": 133,
+    "open": 7,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -581,7 +581,7 @@
      },
      {
       "title": "M5 Контент и арт",
-      "open": 6,
+      "open": 7,
       "closed": 0,
       "state": "open"
      },
@@ -965,7 +965,10 @@
    "the-games": 40
   },
   "2026-11-14": {
-   "the-games": 22
+   "the-games": 51
+  },
+  "2026-11-15": {
+   "the-games": 10
   }
  }
 }
