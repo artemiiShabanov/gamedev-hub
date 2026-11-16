@@ -8,7 +8,7 @@
 
 | Игра | Фаза | Движок | Прогресс | Открыто | Последний коммит | 30 дн. | Всего |
 |---|---|---|---|--:|---|--:|--:|
-| **[The Games](https://github.com/artemiiShabanov/The-games)**<br><sub>The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском</sub> | идея | Godot 4.4 | `█████████░` 95% (126/133) | 7 | 2026-11-15<br><sub>Гонки 3D: три круга, резинка и быстрее соперники, шлюпка еде</sub> | 377 | 380 |
+| **[The Games](https://github.com/artemiiShabanov/The-games)**<br><sub>The Movies, только про игры: симулятор студии, где в собранную по параметрам игру можно реально поиграть перед выпуском</sub> | идея | Godot 4.4 | `█████████░` 86% (128/148) | 20 | 2026-11-16<br><sub>Космос: луноход и ховер без мачт и гребней на трёх технологи</sub> | 408 | 411 |
 | **[RallyRivals](https://github.com/artemiiShabanov/RallyRivals)**<br><sub>Аркадные ралли-гонки против ИИ-соперников, 3D</sub> | контент | Godot 4.4 | `█████████░` 89% (132/149) | 17 | 2026-10-25<br><sub>Workflow: drop tasks.yaml, tasks.py and STATUS.md — the back</sub> | 2 | 278 |
 | **[No-Extraction](https://github.com/artemiiShabanov/No-Extraction)**<br><sub>Снайпер на крепостной стене против волн рыцарей</sub> | вертикальный срез | Godot 4.7 | `██░░░░░░░░` 25% (13/53) | 40 | 2026-10-25<br><sub>project.yaml: next reflects the open M1 issue (#10)</sub> | 2 | 40 |
 | **[slash-dash-slash](https://github.com/artemiiShabanov/slash-dash-slash)**<br><sub>Мобильный роглайк-слэшер, где рывок — единственный глагол; меч, самоцветы и офис 1970-х с настоящей магией</sub> | прототип | Godot 4.4 (mobile) | `█░░░░░░░░░` 14% (10/70) | 60 | 2026-10-25<br><sub>Align with gamedev-hub workflow: docs/, plan.yaml, sync_plan</sub> | 1 | 29 |
@@ -100,7 +100,7 @@
 - M2 Первый забег `██████████` 100% 42/42 · закрыта
 - M3 Двумерные технологии `██████████` 100% 19/19 · закрыта
 - M4 Объём `██████████` 100% 22/22 · закрыта
-- M5 Контент и арт `░░░░░░░░░░` 0% 0/7
+- M5 Контент и арт `█░░░░░░░░░` 9% 2/22
 
 ## Как пользоваться
 
@@ -109,4 +109,4 @@
 - Новый проект: `python3 tools/new_project.py MyGame --tagline "..."`.
 - Автосборка: раз в сутки и при каждом пуше, см. `.github/workflows/dashboard.yml`.
 
-<sub>Обновлено 2026-11-15T13:58+03:00 (Europe/Moscow)</sub>
+<sub>Обновлено 2026-11-16T14:24+03:00 (Europe/Moscow)</sub>
