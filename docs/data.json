@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T14:24+03:00",
+ "generated_at": "2026-11-17T14:56+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,16 +538,16 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 411,
-   "active_days": 20,
-   "commits_30d": 408,
-   "last_commit": "2026-11-16",
-   "last_message": "Космос: луноход и ховер без мачт и гребней на трёх технологиях, диагонали ховера поворотом (#136)",
-   "pushed_at": "2026-11-16T07:30:21Z",
+   "commits_total": 430,
+   "active_days": 21,
+   "commits_30d": 427,
+   "last_commit": "2026-11-17",
+   "last_message": "План: веха M5 «Контент и арт» закрыта",
+   "pushed_at": "2026-11-17T09:59:03Z",
    "progress": {
-    "done": 128,
+    "done": 148,
     "total": 148,
-    "open": 20,
+    "open": 0,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -581,9 +581,9 @@
      },
      {
       "title": "M5 Контент и арт",
-      "open": 20,
-      "closed": 2,
-      "state": "open"
+      "open": 0,
+      "closed": 22,
+      "state": "closed"
      },
      {
       "title": "M6 Полировка и релиз",
@@ -971,7 +971,10 @@
    "the-games": 35
   },
   "2026-11-16": {
-   "the-games": 6
+   "the-games": 12
+  },
+  "2026-11-17": {
+   "the-games": 13
   }
  }
 }
