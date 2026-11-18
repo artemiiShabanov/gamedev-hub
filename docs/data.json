@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T14:56+03:00",
+ "generated_at": "2026-11-18T14:47+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,12 +538,12 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 430,
-   "active_days": 21,
-   "commits_30d": 427,
-   "last_commit": "2026-11-17",
-   "last_message": "План: веха M5 «Контент и арт» закрыта",
-   "pushed_at": "2026-11-17T09:59:03Z",
+   "commits_total": 447,
+   "active_days": 22,
+   "commits_30d": 444,
+   "last_commit": "2026-11-18",
+   "last_message": "Баланс мини-игр, итерация 3: все 20 в самый раз на t 0,5",
+   "pushed_at": "2026-11-18T11:33:30Z",
    "progress": {
     "done": 148,
     "total": 148,
@@ -974,7 +974,10 @@
    "the-games": 12
   },
   "2026-11-17": {
-   "the-games": 13
+   "the-games": 19
+  },
+  "2026-11-18": {
+   "the-games": 11
   }
  }
 }
