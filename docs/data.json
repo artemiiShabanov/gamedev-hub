@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T14:43+03:00",
+ "generated_at": "2026-11-20T14:44+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -538,12 +538,12 @@
    "store": "",
    "tracker": "github-issues",
    "color": "#ffd166",
-   "commits_total": 451,
-   "active_days": 22,
-   "commits_30d": 448,
-   "last_commit": "2026-11-18",
-   "last_message": "Сборки: улучшения, вставки и названия студий не пропадали",
-   "pushed_at": "2026-11-18T13:02:09Z",
+   "commits_total": 457,
+   "active_days": 24,
+   "commits_30d": 454,
+   "last_commit": "2026-11-20",
+   "last_message": "Статистика мини-игр: журнал сыгранного и выгрузка CSV",
+   "pushed_at": "2026-11-20T07:30:06Z",
    "progress": {
     "done": 148,
     "total": 148,
@@ -978,6 +978,12 @@
   },
   "2026-11-18": {
    "the-games": 15
+  },
+  "2026-11-19": {
+   "the-games": 4
+  },
+  "2026-11-20": {
+   "the-games": 2
   }
  }
 }
