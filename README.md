@@ -109,4 +109,4 @@
 - Новый проект: `python3 tools/new_project.py MyGame --tagline "..."`.
 - Автосборка: раз в сутки и при каждом пуше, см. `.github/workflows/dashboard.yml`.
 
-<sub>Обновлено 2026-11-25T15:59+03:00 (Europe/Moscow)</sub>
+<sub>Обновлено 2026-11-26T15:39+03:00 (Europe/Moscow)</sub>
