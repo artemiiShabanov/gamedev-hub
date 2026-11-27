@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T15:39+03:00",
+ "generated_at": "2026-11-27T15:26+03:00",
  "timezone": "Europe/Moscow",
  "since": "2023-01-01",
  "owner": "artemiiShabanov",
@@ -546,8 +546,8 @@
    "pushed_at": "2026-11-20T14:55:05Z",
    "progress": {
     "done": 148,
-    "total": 148,
-    "open": 0,
+    "total": 149,
+    "open": 1,
     "milestones": [
      {
       "title": "M0 Прототип",
@@ -587,7 +587,7 @@
      },
      {
       "title": "M6 Полировка и релиз",
-      "open": 0,
+      "open": 1,
       "closed": 0,
       "state": "open"
      }
